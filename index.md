@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Vamos con otra prueba."
 ---
 
-I'm glad you are here. I plan to talk about ...
+Lo pasamos a español, por cambiar un poco ...
